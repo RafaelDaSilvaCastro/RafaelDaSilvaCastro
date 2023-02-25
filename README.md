@@ -3,8 +3,7 @@
 🎓 Sou estudande de engenheira de software 
 
 👀 Sou intereção em:
-  - JavaScript
-  - Python
+  - Desnvolvimento WEB
   - Banco de dados
   - Desenvolvimento
   - Gestão de produtos
